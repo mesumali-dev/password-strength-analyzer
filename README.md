@@ -1,4 +1,4 @@
-# 🔐 Password Strength Analyzer & Entropy Evaluator
+# Password Strength Analyzer & Entropy Evaluator
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Framework-FF4B4B?style=flat-square&logo=streamlit)](https://streamlit.io/)
@@ -8,7 +8,7 @@
 
 ---
 
-## 🛡️ Analysis Criteria
+## Analysis Criteria
 
 - **Entropy Scoring:** Bit-level information entropy evaluation based on character space pools.
 - **Pattern & Dictionary Checks:** Detects sequential characters, common passwords, and repetitive keyboard patterns.
@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Installation & Run
+## Installation & Run
 
 ```bash
 git clone https://github.com/mesumali-dev/password-strength-analyzer.git
@@ -29,5 +29,5 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
+## ‍ Author
 **Syed Mesum Ali** - [@mesumali-dev](https://github.com/mesumali-dev)
